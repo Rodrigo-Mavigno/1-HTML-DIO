@@ -1,0 +1,16 @@
+footer {
+  color: blue;
+  font-family: sans-serif;
+  cursor: pointer;
+  padding: 10px;
+  background-color: black;
+
+
+  display: flex;
+  justify-content: center;
+  
+}
+
+footer:hover {
+  color: aqua;
+}
